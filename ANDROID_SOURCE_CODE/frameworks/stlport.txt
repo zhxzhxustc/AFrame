@@ -1,0 +1,33 @@
+./compile/linkloader/Android.mk:  libstlport
+./compile/linkloader/Android.mk:  libstlport
+./compile/linkloader/Android.mk:  libstlport
+./compile/libbcc/tests/Android.mk:LOCAL_SHARED_LIBRARIES := libdl libstlport libbcinfo libbcc
+./compile/libbcc/tests/Android.mk:include external/stlport/libstlport.mk
+./compile/libbcc/bcinfo/Android.mk:LOCAL_SHARED_LIBRARIES := libcutils libstlport
+./compile/libbcc/Android.mk:LOCAL_SHARED_LIBRARIES := libdl libcutils libutils libstlport
+./stlport.txt:./compile/linkloader/Android.mk:  libstlport
+./stlport.txt:./compile/linkloader/Android.mk:  libstlport
+./stlport.txt:./compile/linkloader/Android.mk:  libstlport
+./stlport.txt:./compile/libbcc/tests/Android.mk:LOCAL_SHARED_LIBRARIES := libdl libstlport libbcinfo libbcc
+./stlport.txt:./compile/libbcc/tests/Android.mk:include external/stlport/libstlport.mk
+./base/cmds/installd/tests/Android.mk:    libstlport
+./base/opengl/tests/lib/Android.mk:LOCAL_SHARED_LIBRARIES += libcutils libutils libstlport
+./base/opengl/tests/hwc/Android.mk:LOCAL_SHARED_LIBRARIES += libcutils libutils libstlport
+./base/opengl/tests/EGLTest/Android.mk:	libstlport \
+./base/opengl/libs/GLES2_dbg/test/Android.mk:LOCAL_SHARED_LIBRARIES := libcutils libutils libGLESv2_dbg libstlport
+./base/opengl/libs/GLES2_dbg/Android.mk:LOCAL_SHARED_LIBRARIES := libcutils libutils libstlport
+./base/media/libstagefright/tests/Android.mk:	libstlport \
+./base/media/libstagefright/chromium_http/Android.mk:LOCAL_SHARED_LIBRARIES += libstlport
+./base/media/libstagefright/chromium_http/Android.mk:include external/stlport/libstlport.mk
+./base/media/libstagefright/Android.mk:LOCAL_SHARED_LIBRARIES += libstlport libchromium_net
+./base/media/libstagefright/Android.mk:include external/stlport/libstlport.mk
+./base/services/surfaceflinger/tests/Android.mk:	libstlport \
+./base/services/surfaceflinger/Android.mk~:	libstlport
+./base/services/surfaceflinger/Android.mk:	libstlport \
+./base/services/input/tests/Android.mk:    libstlport \
+./base/services/input/Android.mk~:    libstlport
+./base/services/input/Android.mk:    libstlport
+./base/libs/utils/tests/Android.mk:	libstlport
+./base/libs/ui/tests/Android.mk:	libstlport \
+./base/libs/gui/tests/Android.mk:	libstlport \
+./ex/variablespeed/jni/Android.mk:    libstlport \

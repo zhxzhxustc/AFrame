@@ -1,0 +1,9 @@
+# Copyright 2011 Google Inc. All Rights Reserved.
+#Tue Jul  5 19:05:36 PDT 2011
+currentVersion=0.8.0
+version=0.8.0
+isNative=true
+name=ipsec-tools
+keywords=ipsec-tools
+onDevice=true
+homepage=http\://ipsec-tools.sourceforge.net/
