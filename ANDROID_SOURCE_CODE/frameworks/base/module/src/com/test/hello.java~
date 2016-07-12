@@ -1,0 +1,10 @@
+package com.test;
+
+import android.util.Log;
+
+public class hello {
+
+	public void say(){
+		Log.d("AMIT", "FRAMEWORK MODULE - HELLO");
+	}
+}

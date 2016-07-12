@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Hello_WorldActivity!</string>
+    <string name="app_name">Hello_World</string>
+    <string name="MainActivity">Button inside MainActivity</string>
+    <string name="SecondActivity">Button inside SecondActivity</string>
+    <string name="Latitude">Latitude</string>
+    <string name="unknown">unknown</string>
+    <string name="Longitute">Longitute</string>
+    <string name="Button03">Button in L2</string>
+    <string name="Button02">Inject Event to MainFrame</string>
+    <string name="Button01">Inject Event to AFrame</string>
+    <string name="CanvasBtn">Canvas test button</string>
+    <string name="mainHint">Type who you are in Main Activity.</string>
+    <string name="secondHint">Type who you are in Second Activity.</string>
+    <string name="host_activity">MainFrame REGION</string>
+    <string name="aframe_activity">AFRAME REGION</string>
+</resources>
